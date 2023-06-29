@@ -1,0 +1,18 @@
+R7_BF05WD05WV00
+* WENO5:                13720 iter, 52.663 min, 0.248 s/iter
+* WENO9:                12750 iter, 1.375 hour, 0.388 s/iter
+* CenteredSecondOrder:  14660 iter, 39.117 min, 0.160 s/iter
+* UpwindBiased9:        12210 iter, 36.297 min, 0.178 s/iter
+
+R7_BF05WD10WV00
+* WENO5:                30160 iter, 1.830 hour, 0.218 s/iter
+* WENO9:                27930 iter, 2.929 hour, 0.377 s/iter
+* CenteredSecondOrder:  31830 iter, 1.321 hour, 0.149 s/iter
+* UpwindBiased9:        26620 iter, 1.217 hour, 0.165 s/iter
+
+R7_BF5hWD05WV00
+* WENO5:                16650 iter, 1.074 hour, 0.232 s/iter
+* WENO9:                16930 iter, 1.824 hour, 0.388 s/iter
+* CenteredSecondOrder:  18300 iter, 48.779 min, 0.160 s/iter
+* UpwindBiased9:        17070 iter, 49.861 min, 0.175 s/iter
+
